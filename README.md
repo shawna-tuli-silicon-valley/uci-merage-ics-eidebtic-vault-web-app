@@ -1,4 +1,4 @@
-# Capital One Santa Monica Hackathon 
+# Capital One Santa Monica Hackathon 💳🔴 
 <img width="1256" alt="Screen Shot 2022-03-26 at 3 08 31 PM" src="https://user-images.githubusercontent.com/19508013/160258674-ceb45116-79b2-4752-a429-a815aaed5920.png">
 <img width="1256" alt="Screen Shot 2022-03-26 at 3 08 43 PM" src="https://user-images.githubusercontent.com/19508013/160258679-7bdef2eb-f9bc-41fe-8394-5bf9732a884f.png">
 <img width="1256" alt="Screen Shot 2022-03-26 at 3 08 54 PM" src="https://user-images.githubusercontent.com/19508013/160258680-96dfae6a-470c-44df-8e48-61c3b5e8556f.png">
