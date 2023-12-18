@@ -4,7 +4,6 @@
 ![165828670-e7e49f36-39ad-4b5a-a1d0-0f1b9b409618](https://user-images.githubusercontent.com/19508013/229361981-420d4c29-7b53-4a3f-bcc8-fda2a96923c1.png)
 
 <img width="1256" alt="Screen Shot 2022-03-26 at 3 08 31 PM" src="https://user-images.githubusercontent.com/19508013/160258674-ceb45116-79b2-4752-a429-a815aaed5920.png">
-<img width="1256" alt="Screen Shot 2022-03-26 at 3 08 43 PM" src="https://user-images.githubusercontent.com/19508013/160258679-7bdef2eb-f9bc-41fe-8394-5bf9732a884f.png">
 <img width="1256" alt="Screen Shot 2022-03-26 at 3 08 54 PM" src="https://user-images.githubusercontent.com/19508013/160258680-96dfae6a-470c-44df-8e48-61c3b5e8556f.png">
 <img width="1256" alt="Screen Shot 2022-03-26 at 3 09 02 PM" src="https://user-images.githubusercontent.com/19508013/160258681-4c83ec97-4f44-4f2e-8207-aed5407b4723.png">
 <img width="1256" alt="Screen Shot 2022-03-26 at 3 09 12 PM" src="https://user-images.githubusercontent.com/19508013/160258682-03692482-272d-4dc8-80f7-1f14f18f3086.png">
